@@ -1,13 +1,12 @@
-'EOF'
 # ASR Fellowship Challenge: Adapter-Based Fine-Tuning
 
-## 📋 Submission Overview
+## Submission Overview
 Complete implementation of adapter-based fine-tuning for low-resource Kinyarwanda ASR using the provided WebDataset.
 
-## 🚨 Important Note
+## Important Note
 The dataset (`DigitalUmuganda/ASR_Fellowship_Challenge_Dataset`) contains **only audio data without ground truth transcriptions**. Therefore, **WER cannot be calculated**.
 
-## 🛠️ Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8 or higher
